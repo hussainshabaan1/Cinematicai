@@ -368,13 +368,14 @@ https://your-domain.com/admin/api-keys
 
 ## 📄 الترخيص
 
-هذا المشروع مرخص تحت MIT License.
+هذا المشروع مرخص تحت hussainandshabaan
 
 ---
 
 ## 📞 التواصل والدعم
 
-- **Email:** contact@onspace.ai
+- **Email:** hussainandshabaan@gmail.com
+
 - **Documentation:** راجع `DEPLOYMENT.md`
 - **Issues:** افتح issue في GitHub
 
@@ -382,7 +383,6 @@ https://your-domain.com/admin/api-keys
 
 ## 🙏 الشكر والتقدير
 
-- **OnSpace** - منصة التطوير والنشر
 - **Sora2API** - توليد الفيديوهات
 - **AtlasCloud AI** - تحليل النصوص الذكي
 - **shadcn/ui** - مكتبة المكونات
@@ -391,8 +391,6 @@ https://your-domain.com/admin/api-keys
 
 <div align="center">
 
-**صُنع بـ ❤️ باستخدام OnSpace**
 
-[الموقع](https://onspace.ai) • [الوثائق](https://docs.onspace.ai) • [الدعم](mailto:contact@onspace.ai)
 
 </div>
